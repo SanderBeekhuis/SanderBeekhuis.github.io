@@ -31,6 +31,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - docs/index.md # Does not when published so does not render
+- index.md
 
 # Build settings
 markdown: kramdown
